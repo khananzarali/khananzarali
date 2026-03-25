@@ -15,7 +15,7 @@ I build robust automation frameworks and custom digital tools to bridge the gap 
 🛠️ Technical Stack
 Languages: JavaScript (ES6+), TypeScript, SQL, HTML/CSS
 
-Automation: Playwright, Selenium, Cypress, Appium
+Automation: Playwright, Selenium, Cypress
 
 Frameworks/Libs: React, Next.js, Electron, Node.js
 
