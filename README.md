@@ -36,7 +36,6 @@ Email: khananzarali7@gmail.com
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khananzarali&layout=compact&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khananzarali&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
