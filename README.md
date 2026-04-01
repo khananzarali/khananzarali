@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anzar Ali Khan
+# Hi there 👋 I'm Anzar Ali Khan
 QA Automation Engineer | Full-Stack Developer | System Designer
 
 I build robust automation frameworks and custom digital tools to bridge the gap between high-quality code and high-efficiency workflows.
