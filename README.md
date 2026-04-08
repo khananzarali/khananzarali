@@ -1,41 +1,27 @@
-# Hi there 👋 I'm Anzar Ali Khan
-QA Automation Engineer | Full-Stack Developer | System Designer
+Hi there 👋 I'm Anzar Ali Khan
+Full-Stack Developer | Software Engineer
 
-I build robust automation frameworks and custom digital tools to bridge the gap between high-quality code and high-efficiency workflows.
+I build scalable, end-to-end web applications and custom digital tools, focusing on seamless user experiences and robust architecture. From designing interactive frontends to architecting efficient backends, I enjoy solving complex problems across the entire stack.
 
 🚀 What I'm Up To
-🔭 Currently working on: Scaling advanced automation suites using Playwright and refining open-source UI frameworks for knowledge management.
+🔭 Currently working on: Building high-performance web applications with React and Node.js, and refining custom dashboard interfaces for project tracking.
 
-🌱 Currently learning: Deep-dive implementations of Generative AI within Oracle Cloud Infrastructure and advanced TypeScript patterns.
+🌱 Currently learning: Advanced TypeScript patterns, Next.js server actions, and integrating Generative AI into full-stack workflows.
 
-👯 Looking to collaborate on: Open-source Obsidian plugins, Electron-based desktop utilities, or any project pushing the boundaries of automated testing.
+👯 Looking to collaborate on: Open-source desktop utilities, Electron-based applications, or any project focused on enhancing personal productivity and "Second Brain" systems.
 
-💬 Ask me about: Playwright, Selenium, React development, or how to build a "Second Brain" using Obsidian and Dataview.
+💬 Ask me about: React development, API design, TypeScript, or building custom plugins and scripts for Obsidian.
 
 🛠️ Technical Stack
 Languages: JavaScript (ES6+), TypeScript, SQL, HTML/CSS
 
-Automation: Playwright, Selenium, Cypress
+Frontend: React, Next.js, Tailwind CSS, Electron
 
-Frameworks/Libs: React, Next.js, Electron, Node.js
+Backend: Node.js, Express
 
-Databases: MS Access, PostgreSQL
-
-
+Databases: PostgreSQL, MS Access
 
 📬 Let's Connect
 LinkedIn: linkedin.com/in/ANZARALIKHAN
-Email: khananzarali7@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khananzarali&theme=radical" />
-</p>    
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khananzarali&theme=radical" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khananzarali&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khananzarali&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Email: khananzarali7@gmail.com
