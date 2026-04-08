@@ -1,4 +1,4 @@
-Hi there 👋 I'm Anzar Ali Khan
+# Hi there 👋 I'm Anzar Ali Khan
 Full-Stack Developer | Software Engineer
 
 I build scalable, end-to-end web applications and custom digital tools, focusing on seamless user experiences and robust architecture. From designing interactive frontends to architecting efficient backends, I enjoy solving complex problems across the entire stack.
