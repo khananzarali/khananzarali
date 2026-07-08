@@ -1,39 +1,20 @@
-# Hi, I'm Anzar Ali Khan 👋
+# Hi 👋, I'm Anzar Ali Khan
 
 ### Full-Stack Developer | Software Engineer
 
-I build modern, scalable web applications that combine intuitive user experiences with efficient, maintainable architectures. Passionate about solving real-world problems, I enjoy working across the entire development lifecycle—from crafting responsive frontends to designing robust backend systems and databases.
+Building scalable web applications, productivity tools, and modern digital experiences with a focus on performance, maintainability, and user-centric design.
 
-My focus is on creating reliable, high-performance software that delivers value to users while maintaining clean code and scalable design principles.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me
 
-* Building scalable web applications using **React, Next.js, Node.js, and TypeScript**
-* Developing custom dashboards and productivity-focused tools
-* Improving application performance, maintainability, and user experience
-
-## 🌱 Currently Learning
-
-* Advanced **TypeScript** design patterns
-* **Next.js** Server Actions and modern full-stack architectures
-* Integrating **Generative AI** into web applications and developer workflows
-
-## 🤝 Open to Collaborate On
-
-* Open-source projects
-* Productivity and knowledge-management tools
-* Electron-based desktop applications
-* Developer-focused utilities and automation tools
-
-## 💡 Ask Me About
-
-* React & Next.js Development
-* REST API Design & Backend Architecture
-* TypeScript Best Practices
-* Full-Stack Application Development
-* Obsidian Plugins and Productivity Systems
+* 🔭 Currently building scalable web applications with **React, Next.js, Node.js, and TypeScript**
+* 🌱 Learning **Advanced TypeScript**, **Next.js Server Actions**, and **Generative AI Integration**
+* 👯 Open to collaborating on **Open Source** and **Productivity Tools**
+* 💬 Ask me about **React, TypeScript, APIs, Full-Stack Development, and Obsidian Plugins**
+* ⚡ I enjoy building tools that improve productivity and automate workflows
 
 ---
 
@@ -41,35 +22,43 @@ My focus is on creating reliable, high-performance software that delivers value 
 
 ### Languages
 
-JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
 
 ### Frontend
 
-React, Next.js, Tailwind CSS
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge\&logo=tailwindcss)
 
 ### Backend
 
-Node.js, Express.js
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
 
-### Databases
+### Database
 
-PostgreSQL, MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+![Microsoft Access](https://img.shields.io/badge/MS_Access-000?style=for-the-badge\&logo=microsoftaccess)
 
-### Tools & Technologies
+### Tools
 
-Git, GitHub, REST APIs, Responsive Design
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/ANZARALIKHAN
-* Email: [khananzarali7@gmail.com](mailto:khananzarali7@gmail.com)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge\&logo=fastapi)
 
 ---
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=khananzarali\&theme=tokyonight\&hide_border=true)
 
+---
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khananzarali&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ANZARALIKHAN)
+
+📧 **Email:** [khananzarali7@gmail.com](mailto:khananzarali7@gmail.com)
+
