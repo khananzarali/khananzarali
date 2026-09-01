@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Anzar Ali Khan
 
 ### Software Development Engineer in Test (SDET) | QA Automation Engineer
@@ -22,16 +23,13 @@ Building robust automation frameworks, scalable testing strategies, and ensuring
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
 ### Automation & Testing
 
 ![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
 ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
 
 ### API & Database
